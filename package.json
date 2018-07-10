@@ -1,5 +1,5 @@
 {
-  "name": "sequelize",
+  "name": "@ownzones/sequelize",
   "description": "Multi dialect ORM for Node.JS",
   "version": "1.0.0-fix-paranoid",
   "author": "Sascha Depold <sascha@depold.com>",
@@ -30,10 +30,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sequelize/sequelize.git"
+    "url": "https://github.com/OwnZones/sequelize.git"
   },
   "bugs": {
-    "url": "https://github.com/sequelize/sequelize/issues"
+    "url": "https://github.com/OwnZones/sequelize/sequelize/issues"
   },
   "dependencies": {
     "bluebird": "^3.4.6",
