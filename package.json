@@ -1,7 +1,7 @@
 {
   "name": "@ownzones/sequelize",
   "description": "Multi dialect ORM for Node.JS",
-  "version": "1.0.0-fix-paranoid",
+  "version": "1.0.0",
   "author": "Sascha Depold <sascha@depold.com>",
   "contributors": [
     {
